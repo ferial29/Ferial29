@@ -20,7 +20,7 @@ https://github.com/ferial29/Mini-Next.js-Project
 💡 I enjoy creating clean UI, performant frontend architecture, and real-world web applications.
 📫 Connect with me:
 LinkedIn:https://linkedin.com/in/ferial-echresh 
----
+
 
 ## 📊 GitHub Stats
 
