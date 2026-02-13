@@ -22,8 +22,10 @@ https://github.com/ferial29/Mini-Next.js-Project
 LinkedIn:https://linkedin.com/in/ferial-echresh 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Ferial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferial29&show_icons=true)
+![Ferial's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ferial29&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferial29&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferial29&layout=compact)
