@@ -3,12 +3,9 @@
 Frontend Developer specialized in building modern and scalable web applications using React and Next.js.
 
 🚀 Tech Stack:
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Node.js
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,mongodb,js,git" />
+</p>
 
 🔥 Featured Projects:
 🔹 Booking Management System  
