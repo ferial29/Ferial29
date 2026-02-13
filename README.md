@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Ferial 👋
 
-<!--
-**ferial29/Ferial29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications using React and Next.js.
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- React.js
+- Next.js
+- JavaScript / TypeScript
+- Tailwind CSS
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects:
+- Flight Search Assessment
+- Booking Assessment
+- Mini Next.js Project
+
+🌱 Currently improving performance optimization and scalable frontend architecture.
+
+📫 Connect with me:
+LinkedIn:https://linkedin.com/in/ferial-echresh 
