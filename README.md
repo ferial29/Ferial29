@@ -1,20 +1,20 @@
 ## Hi, I'm Ferial 👋
 
-Frontend Developer focused on building modern web applications using React and Next.js.
+Frontend Developer specialized in building modern and scalable web applications using React and Next.js.
 
-💻 Tech Stack:
+🚀 Tech Stack:
 - React.js
 - Next.js
-- JavaScript / TypeScript
+- TypeScript
 - Tailwind CSS
-- REST APIs
+- Node.js
+- MongoDB
 
-🚀 Featured Projects:
+🔥 Featured Projects:
+- Booking Management System (Full-Stack)
 - Flight Search Assessment
-- Booking Assessment
 - Mini Next.js Project
 
-🌱 Currently improving performance optimization and scalable frontend architecture.
-
+💡 I enjoy creating clean UI, performant frontend architecture, and real-world web applications.
 📫 Connect with me:
 LinkedIn:https://linkedin.com/in/ferial-echresh 
