@@ -31,9 +31,10 @@ https://github.com/ferial29/Mini-Next.js-Project
 
 ## 📊 GitHub Stats
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferial29&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferial29&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferial29&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferial29&layout=compact&theme=github_dark&hide_border=true" />
+
 
 
 
