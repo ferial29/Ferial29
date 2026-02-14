@@ -1,35 +1,48 @@
-## Hi, I'm Ferial 👋
-
-Frontend Developer specialized in building modern and scalable web applications using React and Next.js.
-
-🚀 Tech Stack:
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,mongodb,js,git" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ferial+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications" />
 </p>
 
-🔥 Featured Projects:
-🔹 Booking Management System  
+# Hi, I'm Ferial 👋
+
+Frontend Developer focused on building scalable **React & Next.js** applications with strong attention to UX, performance, and clean architecture.
+
+---
+
+## 🔥 Featured Projects
+
+🔹 **Booking Management System**  
 https://github.com/ferial29/booking-assessment
 
-🔹 Flight Search Assessment  
+🔹 **Flight Search Assessment**  
 https://github.com/ferial29/flight-search-assessment
 
-🔹 Mini Next.js Project  
+🔹 **Mini Next.js Project**  
 https://github.com/ferial29/Mini-Next.js-Project
 
-💡 I enjoy creating clean UI, performant frontend architecture, and real-world web applications.
-📫 Connect with me:
-LinkedIn:https://linkedin.com/in/ferial-echresh 
 ---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,mongodb,js,git" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ferial's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ferial29&show_icons=true)
+![Ferial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferial29&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferial29&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferial29&layout=compact&theme=transparent)
+
+---
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/ferial29/ferial29-snake/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: https://linkedin.com/in/ferial-echresh
